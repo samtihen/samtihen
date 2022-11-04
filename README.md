@@ -6,7 +6,7 @@ I'm passionate about building software of all types, and really enjoy teaching a
 
 I really enjoy [traveling](https://www.youtube.com/watch?v=N9Ko-yvJzHU), and was lucky enough to spend my late 20s abroad while working on a [Scuba Diving](https://www.youtube.com/watch?v=3j4-ncvzolA) startup called [MyScubaDives.com](http://www.myscubadives.com).
 
-Today, I am [married and have two young children](https://www.flickr.com/people/samtihen/) who take up most of my free time.
+Today, I am [married to my high school crush and have two young children](https://www.flickr.com/people/samtihen/) who take up most of my free time.
 
 <!--
 **samtihen/samtihen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
