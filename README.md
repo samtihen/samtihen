@@ -2,7 +2,7 @@
 
 I'm a [Lead Software Engineer at Enterprise Holdings 🚘](https://www.linkedin.com/in/samtihen/), where I have worked since 2015. I completed a MS in CS at the University of Missouri - Saint Louis in 2022 🎓, with an emphasis in artificial intelligence, machine learning, and data science.
 
-I'm passionate about building software of all types 🧑🏻‍💻, and really enjoy teaching and mentoring newer developers.
+I'm passionate about building software of all types 🧑🏻‍💻, and really enjoy mentoring newer developers. I teach [Web Development (CSE 204A)](https://github.com/wustlcse204) at [Washington University in Saint Louis](https://wustl.edu/).
 
 I really enjoy [traveling 🧳](https://www.deviantart.com/samtihen), and was lucky enough to spend my late 20s abroad while working on a [Scuba Diving 🤿](https://www.youtube.com/watch?v=3j4-ncvzolA) startup called [MyScubaDives.com](http://www.myscubadives.com).
 
