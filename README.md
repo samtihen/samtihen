@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a [Lead Software Engineer at Enterprise Holdings 🚘](https://www.linkedin.com/in/samtihen/), where I have worked since 2015. I completed a MS in CS at the University of Missouri - Saint Louis in 2022 🎓, with an emphasis in artificial intelligence, machine learning, and data science.
+I'm a [Lead Software Engineer at Enterprise Mobility 🚘](https://www.linkedin.com/in/samtihen/), where I have worked since 2015. I completed a MS in CS at the University of Missouri - Saint Louis in 2022 🎓, with an emphasis in artificial intelligence, machine learning, and data science.
 
 I'm passionate about building software of all types 🧑🏻‍💻, and really enjoy mentoring newer developers. I teach [Web Development (CSE 204A)](https://github.com/wustlcse204) at [Washington University in Saint Louis](https://wustl.edu/).
 
